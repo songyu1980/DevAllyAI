@@ -48,3 +48,26 @@ license: mit
 如果您觉得这个项目对您有所帮助，欢迎扫描下方二维码请作者喝杯咖啡，您的支持是我持续更新的动力！
 
 ![收款码](https://huggingface.co/spaces/songyugod/devally-ai/resolve/main/fkm.jpg)
+
+【Microsoft Windows [版本 10.0.19045.6456]
+(c) Microsoft Corporation。保留所有权利。
+
+E:\ProjectDevAllyAI\dist>npx serve
+Need to install the following packages:
+serve@14.2.6
+Ok to proceed? (y)
+ WARN  Checking for updates failed (use `--debug` to see full error)
+
+   ┌──────────────────────────────────────────────────┐
+   │                                                  │
+   │   Serving!                                       │
+   │                                                  │
+   │   - Local:    http://localhost:56823             │
+   │   - Network:  http://198.18.0.1:56823            │
+   │                                                  │
+   │   This port was picked because 3000 is in use.   │
+   │                                                  │
+   │   Copied local address to clipboard!             │
+   │                                                  │
+   └──────────────────────────────────────────────────┘
+】
